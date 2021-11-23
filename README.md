@@ -3,7 +3,7 @@
 
 Honing my skills with Python, and automating GIS workflows using
 SciPy, Rasterio, Geopandas, etc
-while simultaneously learning C++, for some reason!
+while simultaneously learning C++, in spite of myself.
 
 <!---
 forlenza/forlenza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
